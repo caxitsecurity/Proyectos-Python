@@ -1,0 +1,8 @@
+# Dependencias generales del repo.
+# Agrega aquí librerías cuando un proyecto las necesite.
+
+# Ejemplos futuros:
+# requests
+# rich
+# pandas
+# matplotlib
