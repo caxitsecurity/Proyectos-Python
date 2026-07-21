@@ -40,19 +40,19 @@ La idea de este repositorio es tener un historial visible de aprendizaje: desde 
 | `proyectos/automatizacion` | Scripts para tareas repetitivas en Linux |
 | `proyectos/consola` | Programas que funcionan desde terminal |
 | `proyectos/archivos` | Lectura, escritura y organización de archivos |
-| `proyectos/ciberseguridad-labs` | Scripts para hacking |
+| `proyectos/ciberseguridad-labs` | Repositorio Privado para "Python Ofensivo." |
 | `apuntes` | Notas personales de estudio |
 
 ## Cómo ejecutar un archivo Python
 
 ```bash
-python archivo.py
+python ./archivo.py
 ```
 
 O en Arch Linux:
 
 ```bash
-python3 archivo.py
+python3 ./archivo.py
 ```
 
 ## Crear entorno virtual
@@ -83,7 +83,6 @@ git push
 Usar nombres claros:
 
 ```text
-calculadora.py
 organizador_archivos.py
 scanner_puertos_lab.py
 leer_csv.py
